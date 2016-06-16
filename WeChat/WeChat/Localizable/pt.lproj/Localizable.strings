@@ -1,0 +1,18 @@
+/* 
+  Localizable.strings
+  WeChat
+
+  Created by wangyang on 16/5/14.
+  Copyright © 2016年 wangyang. All rights reserved.
+*/
+
+"login" = "登录";
+"signUp" = "注册";
+"language" = "简体中文";
+"languageTitle" = "多语言";
+"cancel" = "取消";
+"save" = "保存";
+"weChat" = "微信";
+"address" = "通讯录";
+"find" = "发现";
+"mine" = "我";
