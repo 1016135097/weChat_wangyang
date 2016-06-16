@@ -1,6 +1,6 @@
 //
 //  AppDelegate.m
-//  WeChat
+//  WeChat  邮箱：wangyang307395644@126.com  QQ:1508425305
 //
 //  Created by wangyang on 15/11/3.
 //  Copyright © 2015年 wangyang. All rights reserved.
